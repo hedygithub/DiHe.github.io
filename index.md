@@ -790,6 +790,12 @@ _Ref._ [Wikipedia: Support Vector Machine](https://en.wikipedia.org/wiki/Support
 - Can not give probability output.
 - Difficult to understand and interpret the final model, varaible weights and individual impact.
 
+## Extension: The Representaion Theory and Kernelization
+![](images/representer_theorem.png) 
+![](images/representer_theorem_reparam.png) 
+![](images/kernelization.png) 
+
+C:\Users\HedyHe\Documents\GitHub\DiHe.github.io\images\representer_theorem.PNG
 
 # Decision Tree <a name="DecisionTree"></a>
 - Decision tree uses a tree structure to specify sequences of decisions and consequences. It breaks down a dataset into smaller subsets based on the important features.
