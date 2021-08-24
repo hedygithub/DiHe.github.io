@@ -589,7 +589,7 @@ What if you duplicate all the data and do regression on the new data set?
 # LASSO and Ridge <a name="LASSOandRidge"></a>
 ## Basic Concepts
 ![](images/lasso_rigde.png)
-![](images/elastic_net.PNG)
+![](images/elastic_net.png)
 
 ## Comparision 
 **For identical features (High Corr. & Same Scale)**:
@@ -791,9 +791,9 @@ _Ref._ [Wikipedia: Support Vector Machine](https://en.wikipedia.org/wiki/Support
 - Difficult to understand and interpret the final model, varaible weights and individual impact.
 
 ## Extension: The Representaion Theory and Kernelization
-![](images/representer_theorem.PNG) 
-![](images/representer_theorem_reparam.PNG) 
-![](images/kernelization.PNG) 
+![](images/representer_theorem.png) 
+![](images/representer_theorem_reparam.png) 
+![](images/kernelization.png) 
 
 # Decision Tree <a name="DecisionTree"></a>
 - Decision tree uses a tree structure to specify sequences of decisions and consequences. It breaks down a dataset into smaller subsets based on the important features.
