@@ -795,8 +795,6 @@ _Ref._ [Wikipedia: Support Vector Machine](https://en.wikipedia.org/wiki/Support
 ![](images/representer_theorem_reparam.png) 
 ![](images/kernelization.png) 
 
-C:\Users\HedyHe\Documents\GitHub\DiHe.github.io\images\representer_theorem.PNG
-
 # Decision Tree <a name="DecisionTree"></a>
 - Decision tree uses a tree structure to specify sequences of decisions and consequences. It breaks down a dataset into smaller subsets based on the important features.
 - There are Regression Tree and Classification Tree.
